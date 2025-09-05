@@ -33,7 +33,3 @@ Scale teams instantly, reduce hardware waste, and maintain enterprise-grade secu
 - [Compliance](https://machine.bxrne.com#compliance)  
 - [Pricing](https://machine.bxrne.com#pricing)  
 
----
-
-© 2024 machine — All rights reserved.  
-**Stop managing hardware. Start managing outcomes.**
