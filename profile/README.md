@@ -1,10 +1,9 @@
 # machine
 
-> **The computer company for the frontier.**
+**The computer company for the frontier.**
 
 Founded in Europe, **machine** provides modern cloud and self-hosted computing infrastructure designed for flexibility, security, and compliance.
 
----
 
 ## 🚀 What We Do
 Stop leaving decommissioned laptops on shelves.  
@@ -16,7 +15,6 @@ With machine, you get **complete freedom**:
 
 Scale teams instantly, reduce hardware waste, and maintain enterprise-grade security.
 
----
 
 ## 🔑 Features
 - **Any Operating System** – full support for macOS, Linux, and Windows  
@@ -25,7 +23,6 @@ Scale teams instantly, reduce hardware waste, and maintain enterprise-grade secu
 - **Instant Provisioning** – deploy in seconds with automated configs  
 - **Seamless Integration** – LDAP, RBAC, MFA, and existing network protocols  
 
----
 
 ## 🌐 Learn More
 - [Website](https://machine.bxrne.com)  
